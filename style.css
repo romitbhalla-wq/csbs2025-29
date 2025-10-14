@@ -1,0 +1,7 @@
+body { background:#f8f9fa; }
+#login-section { margin-top: 7vh; }
+.table td, .table th { text-align: center; vertical-align: middle; }
+.btn-present { background: #4caf50; color:white; }
+.btn-absent  { background: #e53935; color:white; }
+.selected   { outline: 2px solid #111; }
+@media(max-width:500px){ body{ font-size:15px; } }
