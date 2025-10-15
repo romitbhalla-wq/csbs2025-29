@@ -1,8 +1,15 @@
 {
-  "name": "attendance-app",
+  "name": "csbs2025-29",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "attendance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "googleapis": "^122.0.0"  // Use the latest stable version or as per npm
+    "googleapis": "^163.0.0"
   }
 }
