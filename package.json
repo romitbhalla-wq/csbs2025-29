@@ -1,0 +1,8 @@
+{
+  "name": "attendance-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "googleapis": "^122.0.0"  // Use the latest stable version or as per npm
+  }
+}
